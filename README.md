@@ -1,6 +1,8 @@
 # Welcome @mathisans
 
-Currently enrolled in a Web Dev Bootcamp @neuefische // Into **phat** beats, prog metal and sound-related stuff // Talk to me about fabulous GIFs ✨
+- Currently enrolled in a Web Dev Bootcamp @neuefische
+- Into **phat** beats, prog metal and sound-related stuff
+- Talk to me about fabulous GIFs ✨
 
 ## Top 3 apps (atm)
 
