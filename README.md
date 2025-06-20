@@ -9,7 +9,7 @@ Visit my [Digital Garden](https://mathissantos.com).  🦆
 
 ## Currently Exploring
 
-- Designing a Dashboard for automated file creation and visualisation of statistics in Obsidian
+- Designing a Dashboard for automated file creation and visualisation of vault statistics in [Obsidian](https://obsidian.md)
 - Field recordings & synths ([M8 Tracker](https://dirtywave.com))
 - Designing a zine-inspired archive for analog photographs
 - Experimenting with storytelling through microinteractions
