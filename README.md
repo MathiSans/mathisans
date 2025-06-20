@@ -1,28 +1,36 @@
 # Between Journaling and JavaScript 👨🏾‍💻
-Making Layouts and Templates for and with Obsidian.
-Visit my [Digital Garden](https://mathissantos.com).  🦆
+Making Layouts and Templates for Obsidian.
+- 🌍 [Portfolio](https://mathissantos.com)
+- 🦆 [My Digital Garden](https://mathissantos.com)
+- 🎧 [Bandcamp](https://bandcamp.com/slmns)
 
-## 🔗 Table of Contents
-- [Currently Exploring](#currently-exploring)
-- [Recent Projects](#recent-projects)
-- [📬 Connect with Me](#-connect-with-me)
 
-## Currently Exploring
-
-- Designing a Dashboard for automated file creation and visualisation of vault statistics in [Obsidian](https://obsidian.md)
-- Field recordings & synths ([M8 Tracker](https://dirtywave.com))
-- Designing a zine-inspired archive for analog photographs
-- Experimenting with storytelling through microinteractions
+## Table of Contents
+- 🔧 [Recent Projects](#recent-projects) 
+- 🕵🏾 [Currently Exploring](#currently-exploring) 
+- 🔑 [Legend](#legend)
 
 ## Recent Projects
 
 | Project | Description | Status |
-|--------|-------------|------------|
+|--------|--------|--------|
 | [Building Obsidian Overview](https://github.com/MathiSans/Obsidian_Overview) | Dashboard and Statistics for Obsidian Vault | 🔄 |
-| [Maintaining my digital garden](https://github.com/MathiSans/Digital_Garden) | A sound tool for ambient music creators | 🔄 |
-| [Ruh – Mood Tracker App](https://github.com/MathiSans/capstone_mood-tracker) | A mood tracking app to stay in touch with yourself and your friends | ✅ |
+| [Building my digital garden](https://github.com/MathiSans/Digital_Garden) | A calm space to share curiosities, ideas and progress | 🔄 |
+| [Ruh – Mood Tracker App](https://github.com/MathiSans/capstone_mood-tracker) | Mood tracking app to stay in touch with yourself and your friends | ✅ |
 
-## 📬 Connect with Me
+## Currently Exploring
 
-- 🌍 [Website](https://mathissantos.com)
-- 🎧 [Bandcamp](https://bandcamp.com/slmns)
+| Subject | Status |
+|--------|--------|
+| _Automated file creation_ and _visualisation of vault statistics_ in [Obsidian](https://obsidian.md) | 🚀 |
+| Field recording & sound designing with synths | 🔄 |
+
+## Legend
+
+| Status | Description |
+|--------|--------|
+| 🚀 | Ongoing (priority) |
+| 🔄 | Ongoing |
+| ✅ | Done |
+| 🧊 | Paused |
+
