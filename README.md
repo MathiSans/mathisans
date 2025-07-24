@@ -1,7 +1,7 @@
 # Between Journaling and JavaScript 👨🏾‍💻
 Making Layouts and Templates for Obsidian.
-- 🌍 ~~[Portfolio]()~~
-- 🦆 ~~[My Digital Garden]()~~
+- ⏳ ~~[Portfolio]()~~
+- ⏳ ~~[My Digital Garden]()~~
 - 🎧 [Bandcamp](https://bandcamp.com/slmns)
 
 
