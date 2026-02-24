@@ -16,7 +16,7 @@ Making Layouts and Templates for Obsidian.
 |--------|--------|--------|
 | [Dashboard/Statistics UI for Obsidian Vault](https://github.com/MathiSans/Obsidian_Overview) | Navigation and Statistics integrated in notes | 🔄 |
 | [Digital garden](https://github.com/MathiSans/Digital_Garden) | A calm space to share curiosities, ideas and progress | 🔄 |
-| [Ruh – Mood Tracker App](https://github.com/MathiSans/capstone_mood-tracker) | Mood tracking app to stay in touch with yourself and your friends | ✅ |
+| [Ruh – Mood Tracker App](https://github.com/MathiSans/capstone_mood-tracker) | Mood tracking app to stay in touch with yourself and your friends (Student Project)| ✅ |
 
 ## Currently Exploring
 
