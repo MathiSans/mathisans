@@ -1,7 +1,7 @@
 # Between Journaling and JavaScript 👨🏾‍💻
 Making Layouts and Templates for Obsidian.
-- ⏳ ~~[Portfolio]()~~
-- ⏳ ~~[My Digital Garden]()~~
+- ⏳ ~~[Portfolio]()~~ (work in progress)
+- ⏳ ~~[My Digital Garden]()~~ (work in progress)
 - 🎧 [Bandcamp](https://bandcamp.com/slmns)
 
 
@@ -14,8 +14,8 @@ Making Layouts and Templates for Obsidian.
 
 | Project | Description | Status |
 |--------|--------|--------|
-| [Building Obsidian Overview](https://github.com/MathiSans/Obsidian_Overview) | Dashboard and Statistics for Obsidian Vault | 🔄 |
-| [Building my digital garden](https://github.com/MathiSans/Digital_Garden) | A calm space to share curiosities, ideas and progress | 🔄 |
+| [Dashboard/Statistics UI for Obsidian Vault](https://github.com/MathiSans/Obsidian_Overview) | Navigation and Statistics integrated in notes | 🔄 |
+| [Digital garden](https://github.com/MathiSans/Digital_Garden) | A calm space to share curiosities, ideas and progress | 🔄 |
 | [Ruh – Mood Tracker App](https://github.com/MathiSans/capstone_mood-tracker) | Mood tracking app to stay in touch with yourself and your friends | ✅ |
 
 ## Currently Exploring
